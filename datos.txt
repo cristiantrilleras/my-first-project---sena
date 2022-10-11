@@ -2,3 +2,4 @@ nombre: cristian trilleras
 edad: 29
 correo: cris_01lds@yahoo.es
 canal de youtube: dross
+color favorito: azul
